@@ -1,0 +1,1 @@
+shutdown -s -f -t: 120 -c "ta fudido meu parceiro, teu pc vai apagar"
